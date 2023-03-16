@@ -1,10 +1,10 @@
 import { createAsyncThunk, createSlice } from '@reduxjs/toolkit';
 
 // URLs
-const LOGIN_URL = 'http://127.0.0.1:5000/login';
-const LOGOUT_URL = 'http://127.0.0.1:5000/logout';
-const SIGNUP_URL = 'http://127.0.0.1:5000/signup';
-const CURRENT_USER_URL = 'http://127.0.0.1:5000/api/v1/current_user';
+const LOGIN_URL = 'https://meal-master.onrender.com/login';
+const LOGOUT_URL = 'https://meal-master.onrender.com/logout';
+const SIGNUP_URL = 'https://meal-master.onrender.com/signup';
+const CURRENT_USER_URL = 'https://meal-master.onrender.com/api/v1/current_user';
 
 // action strings
 const USER_LOGIN = 'users/userLogin';
