@@ -66,7 +66,7 @@
 
 ### 🚀 Backend <a name="backend"></a>
 
-- [Backend link](https://github.com/DaveZag/meal-master-backend) 
+- [Backend link](https://github.com/Kasaija-Kenneth/meal-master-backend) 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -89,7 +89,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  git clone https://github.com/DaveZag/meal-master-frontend
+  git clone git@github.com:Kasaija-Kenneth/meal-master-backend.git
 ```
 
 ### Install
